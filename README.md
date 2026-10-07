@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I enjoy turning what I learn into small projects and improving them step by step.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
